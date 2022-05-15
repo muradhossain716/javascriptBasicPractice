@@ -91,3 +91,4 @@ console.log(f,m,s);
 let sun='2nd',mon='first';
 ({sun,mon}=restaurant);
 console.log(sun,mon);
+
